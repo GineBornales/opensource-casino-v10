@@ -176,7 +176,7 @@ case '5':
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Open Source Casino App SIMPLE Installer</title>
+    <title>EASY1KYAW</title>
 <style>
     body {
         font-family: Arial, sans-serif;
