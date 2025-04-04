@@ -1,4 +1,7 @@
 {
+  "name": "ginebornales/opensource-casino-v10",
+  "description": "A lightweight open-source casino management system.",
+  "license": "proprietary",
     "require": {
         "php": ">=7.4",
         "ext-mbstring": "*",

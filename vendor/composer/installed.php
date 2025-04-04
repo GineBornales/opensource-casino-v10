@@ -1,19 +1,19 @@
 <?php return array(
     'root' => array(
-        'name' => '__root__',
+        'name' => 'ginebornales/opensource-casino-v10',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => '46c8f09329401a235f52fd4578a2c0d79cc665be',
+        'reference' => '4ceb74380d7ddddf08fd915076944ddc0882222a',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
         'dev' => true,
     ),
     'versions' => array(
-        '__root__' => array(
+        'ginebornales/opensource-casino-v10' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => '46c8f09329401a235f52fd4578a2c0d79cc665be',
+            'reference' => '4ceb74380d7ddddf08fd915076944ddc0882222a',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
