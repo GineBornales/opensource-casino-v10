@@ -3,7 +3,7 @@
         'name' => 'ginebornales/opensource-casino-v10',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => 'fca16d09ae5150528e95e87ed40173a9cc2cba3e',
+        'reference' => 'd47cba8311f005ab1f27a3c6027c9d36221608b9',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -13,7 +13,7 @@
         'ginebornales/opensource-casino-v10' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => 'fca16d09ae5150528e95e87ed40173a9cc2cba3e',
+            'reference' => 'd47cba8311f005ab1f27a3c6027c9d36221608b9',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
