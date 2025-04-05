@@ -1,4 +1,6 @@
 import os
+os.system("python check_index.py")
+import os
 import datetime
 import subprocess
 
